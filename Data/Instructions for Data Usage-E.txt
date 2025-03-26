@@ -1,0 +1,7 @@
+First, for bunny and horse:  
+Place the bunny or horse file together with the running program in a main directory. When the program runs, it will prompt you to select a file. Simply choose either bunny or horse. Which one to select depends on the desired effect of the program you want to run, so you can make the corresponding choice based on the effect diagram.
+
+Second, for Crab Claw:  
+- Crab Claw-a.asc is the original data before denoising and smoothing. You can directly drag it into CloudCompare to view it.  
+- Crab Claw-b.bin is the data after denoising and smoothing. Similarly, you can drag it into CloudCompare to view it.  
+It is recommended to use CloudCompare V2.

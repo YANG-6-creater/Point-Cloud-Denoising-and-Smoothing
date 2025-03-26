@@ -1,0 +1,13 @@
+1. For the Improved Statistical Denoising Algorithm: （Fig3_Improved Statistical Denoising_E） 
+   By adjusting the input parameters K and λ, you can obtain the output shown in **Figure 3 Enhanced statistical denoising algorithm performance evaluation**.
+
+2. For the Noise Identification Algorithm Based on Mixed Noise Probability:  （Fig7_Noise Identification_E）
+   By adjusting the input parameters μ, σ, and n, you can control the added Gaussian noise. By adjusting χₚ 、χᵩ, and ω1, you can control the identification effect. The output can be viewed in **Figure 7 Frequency type identification of point cloud noise via different noise probability model**.
+
+3. For the Improved Statistical Denoising Algorithm:  （Fig8_ProMeanShift_E）
+   By adjusting the input parameters K,σc,ω1, and ω2, you can control the smoothing effect. The output can be viewed in **Figure 8 The smoothing results by Meanshift and improved Meanshift algorithm**.
+
+4. For the Optimized Meanshift Smoothing Algorithm:  （Fig14_Denoising_and_smoothing_E）
+   By adjusting the output parameters k,σc , and ε, you can control the denoising and smoothing effects. The output can be viewed in **Figure 14 The original and processed point cloud of crab claw**.
+
+It is recommended to use MATLAB 2024a.
